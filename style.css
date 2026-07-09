@@ -65,7 +65,7 @@ body{
     border: 1px solid #3a3a3a;
     font-size: 0.8rem;
 border-radius: 8px;
-font-display: inline-blocks;
+font-display: inline-blocks; /* ek hi line me rehta hai aur width hight bhi de skte hai block ki tarah*/
 margin-top: 10px;    
 }
 /* contact section */
